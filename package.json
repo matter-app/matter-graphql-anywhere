@@ -1,0 +1,11 @@
+{
+  "name": "matter-graphql-anywhere",
+  "version": "5.0.0",
+  "description": "Run GraphQL queries with no schema and just one resolver",
+  "main": "./lib/bundle.umd.js",
+  "author": "Sashko Stubailo <sashko@stubailo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-utilities": "^1.0.6"
+  }
+}
